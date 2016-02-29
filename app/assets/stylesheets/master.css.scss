@@ -3,7 +3,7 @@
 	font-family: "Helvetica Neue", Helvetica;
 	font-weight: 200;
 	box-shadow: 0px 1px 3px #2a2a2a;
-	background: url('polaroid.png');
+	background: url('crossword.png');
 }
 
 .navbar-default a.navbar-brand {
@@ -43,6 +43,11 @@
 	border-radius: 0;
 }
 
-	h1, h2, h3, h4, h5, h6, .navbar {
+body {
+	background: url('polaroid.png');
+	font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+}
+
+h1, h2, h3, h4, h5, h6, .navbar {
 		margin: 0;
 	}
