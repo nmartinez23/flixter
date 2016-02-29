@@ -13,13 +13,13 @@
 }
 
 .hero {
-	background: url('hero.jpeg') no-repeat center center fixed;
+  background: url('hero.jpeg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-	height: 370px;
-	box-shadow: 0px 3px 8px #2a2a2a;
+  height:370px;
+  box-shadow: 0px 3px 8px #2a2a2a;
 }
 
 .frosty {
@@ -56,6 +56,10 @@
 
 .booyah-box h2, .booyah-box h1 {
 	margin: 10px;
+}
+
+.clr {
+	clear: both;
 }
 
 body {

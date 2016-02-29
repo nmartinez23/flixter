@@ -8,6 +8,7 @@
 </head>
 <body>
 
+<div id="wrap">
 <nav class="navbar navbar-default" role="navigation">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
@@ -47,6 +48,17 @@
 <% end %>
 
 <%= yield %>
+
+</div>
+<br class="clr" />
+
+<div id="footer">
+  <div class="container">
+    <b>Footer Here</b>
+    <br />
+    <%= link_to 'Link', '#' %>
+  </div>
+</div>
 
 </body>
 </html>
