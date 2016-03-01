@@ -62,6 +62,14 @@
 	clear: both;
 }
 
+.field_with_errors {
+	color: #ff3333;
+	background-color: #FFEEEE;
+	border-radius: 3px;
+	padding: 8px;
+	margin: 10px;
+}
+
 body {
 	background: url('polaroid.png');
 	font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
