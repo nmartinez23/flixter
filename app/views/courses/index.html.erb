@@ -12,6 +12,7 @@
 		<div class="col-sm-8 col-xs-12">
 			<%= course.description %>
 		</div>
+		<%= image_tag course.image, class: 'img-responsive' %>
 		<div class="col-sm-4 col-xs-12 text-center">
 			<%= link_to 'More Details...', course_path(course), class: 'btn btn-primary btn-large' %>
 		</div>
