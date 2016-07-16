@@ -1,4 +1,5 @@
-# Flixter Rails Application
+
+#Flixter Rails Application
 
 This app is a two sided video streaming marketplace platform with credit card payment capabilities. User role management and complex interface with advanced database relationships.
 
@@ -13,6 +14,6 @@ The following languages, frameworks and tools were used to create this applicati
 * AWS for images and video streaming
 * Stripe API
 
-** Test the application
+## Test the application
 
 You can download or clone the files to run this application locally. You will need to know how to navigate the Rails framework as the functionality is spread across the files in the Controller, Models and Views folders.
