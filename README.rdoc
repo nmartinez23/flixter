@@ -1,5 +1,7 @@
 == Flixter Rails Application
 
+Deployed to Heroku: http://flixter-nmartinez.herokuapp.com
+
 This app is a two sided video streaming marketplace platform with credit card payment capabilities. User role management and complex interface with advanced database relationships. Users can create and customize their own courses or sign up to take courses.
 
 The following technologies were used to create this application.
@@ -11,7 +13,7 @@ The following technologies were used to create this application.
 * Stripe payment processing API
 * Bootstrap framework
 * AWS for images and video streaming
-* Devise user forms
+* Devise user authentication
 
 == Test the application
 
