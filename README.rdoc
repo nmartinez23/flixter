@@ -4,6 +4,8 @@ Deployed to Heroku: http://flixter-nmartinez.herokuapp.com
 
 This app is a two sided video streaming marketplace platform with credit card payment capabilities. User role management and complex interface with advanced database relationships. Users can create and customize their own courses or sign up to take courses.
 
+https://cloud.githubusercontent.com/assets/14083180/21775784/4e8fc088-d64c-11e6-9c83-b4e32f609307.png
+
 The following technologies were used to create this application.
 
 * Ruby on Rails
